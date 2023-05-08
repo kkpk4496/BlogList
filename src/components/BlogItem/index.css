@@ -1,0 +1,14 @@
+li {
+  list-style: none;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 900px;
+  font-family: roboto;
+}
+h1 {
+  font-size: 18px;
+}
